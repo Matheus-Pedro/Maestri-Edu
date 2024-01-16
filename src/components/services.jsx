@@ -7,14 +7,13 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Nossos Serviços</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Na Maestri.edu, não apenas proporcionamos uma educação de alta qualidade, mas também nos esforçamos para oferecer uma experiência completa e enriquecedora. Estamos comprometidos em superar as expectativas dos nossos alunos, proporcionando serviços excepcionais que impulsionam o sucesso acadêmico e profissional.
           </p>
         </div>
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+                <div key={`${d.name}-${i}`} className="col-md-6">
                   {" "}
                   <i className={d.icon}></i>
                   <div className="service-desc">

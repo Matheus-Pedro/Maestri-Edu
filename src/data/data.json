@@ -4,18 +4,14 @@
     "paragraph": "2024: O Ano Novo Começa com Você na Maestri.Edu!"
   },
   "About": {
-    "paragraph": "Loraem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Acreditamos que o ensino superior não deve ser exclusivo para alguns, mas sim uma plataforma para todos moldarem seus futuros. Estamos comprometidos em oferecer uma educação que capacita nossos alunos a enfrentar os desafios do mundo moderno e a prosperar em suas carreiras. ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
+      "Temos os menores valores.",
+      "O melhor ensino EAD da atualidade."
+    ],  
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Melhor chance do alcance do seu futuro.",
+      "Muitas outras oportunidades."
     ]
   },
   "Gallery": [
@@ -67,34 +63,29 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-laptop",
+      "name": "Assessoria Acadêmica Personalizada",
+      "text": "Oferecemos orientação acadêmica personalizada para ajudar os alunos a escolherem os cursos mais alinhados com seus objetivos de carreira. Nossa equipe de assessores está pronta para fornecer insights valiosos e orientação individualizada."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-user-plus",
+      "name": "Suporte Profissional",
+      "text": "Não apenas preparamos os alunos para o mercado de trabalho, mas também oferecemos suporte profissional contínuo. Desde workshops de desenvolvimento de habilidades até programas de estágio, estamos comprometidos em auxiliar nossos alunos em cada passo do caminho em direção ao sucesso profissional."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "Plataforma E-Learning Avançada",
+      "text": "Investimos em tecnologia de ponta para fornecer uma plataforma de aprendizado online intuitiva e eficiente. Nossos alunos têm acesso a recursos digitais, aulas interativas e materiais didáticos de alta qualidade, facilitando a aprendizagem em qualquer lugar e a qualquer momento."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-group",
+      "name": "Rede de Alumni Ativa",
+      "text": "Valorizamos a construção de uma comunidade duradoura. Nossa rede de ex-alunos é uma fonte valiosa de conexões profissionais, oportunidades de networking e mentorias. Ao se juntar à Maestri.edu, você se torna parte de uma comunidade global de indivíduos comprometidos com o sucesso mútuo."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bar-chart-o",
+      "name": "Programas de Bolsas e Financiamento",
+      "text": "Reconhecemos a importância do acesso à educação, independentemente das circunstâncias financeiras. Na Maestri.edu, oferecemos programas de bolsas e opções de financiamento para tornar a educação superior mais acessível a todos os que buscam crescimento e desenvolvimento."
     }
   ],
   "Testimonials": [
@@ -154,31 +145,23 @@
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "info@company.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Valores",
+      "text": "Buscamos fazer você ter um futuro com um mínimo de gasto, com apenas o valor que você pode pagar."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comunidade",
+      "text": "Tem como objetivo ajudar a comunidade e garantir o ensino que você merece pelo valor que pode pagar."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Qualidade",
+      "text": "Comece seu 2024 na Maestri.edu fazendo o ensino que você sonha pelo valor que você merece."
     }
   ]
 }
