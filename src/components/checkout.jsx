@@ -1,28 +1,63 @@
 import React, { useState } from 'react';
+import { useQueryClient, useMutation } from 'react-query';
 
-function CheckoutForm() {
-  const [formData, setFormData] = useState({
-    paymentValue: '',
-    payerId: '',
-    payerName: '',
-    payerEmail: '',
-    payerCep: '',
-    payerTelephoneDDD: '',
-    payerTelephoneNumber: '',
-    courseId: '',
-  });
+function Checkout() {
+    const [formData, setFormData] = useState({
+        paymentValue: 1440.50,
+        payerId: '',
+        payerName: '',
+        payerEmail: '',
+        payerCep: '',
+        payerTelephoneDDD: '',
+        payerTelephoneNumber: '',
+        courseId: 1,
+    });
 
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setFormData({ ...formData, [name]: value });
-  };
+    const queryClient = useQueryClient()
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // Processar os dados do formulário, como enviar para um servidor
-    console.log(formData);
-    alert('Checkout realizado com sucesso!');
-  };
+    const postPayment = async (form) => {
+        console.info(JSON.stringify(form))
+        const data = await fetch("http://api.maestri.app.br/campaign/pix-slip/payment", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(form)
+        });
+        // const data = await fetch(http://api.maestri.app.br/pix/payment/${form.courseId}, {
+        //     method: "GET",
+        //     //headers: { "Content-Type": "application/json" },
+        //     //body: JSON.stringify(form)
+        // });
+
+        return data.json();
+    }
+
+
+    const { mutateAsync: postNewPayment, isLoading } = useMutation({
+        mutationFn: () => postPayment(formData),
+    })
+
+    const handleChange = (e) => {
+        const { name, value } = e.target;
+        setFormData({ ...formData, [name]: value });
+    };
+
+    const handleSubmit = async (e) => {
+        e.preventDefault();
+        // Processar os dados do formulário, como enviar para um servidor
+        try {
+            console.log(formData);
+            formData.courseId = Number(formData.courseId)
+            formData.paymentValue = Number(formData.paymentValue)
+            const data = await postNewPayment()
+            // alert('Checkout realizado com sucesso!');
+            console.log("JsonData: ")
+            console.log(data);
+
+        } catch (e) {
+            console.info(e);
+            return;
+        }
+    };
 
   return (
     <div className='checkout'>
@@ -31,19 +66,11 @@ function CheckoutForm() {
 
         <form onSubmit={handleSubmit} className="col-md-8 col-md-offset-2 intro-text">
             <div id="checkoutForm">
-            <h2>Checkout do Curso</h2>
+            <h2 className='titleCheck'>Checkout do Curso</h2>
             <div className='checkoutDiv'>
-                <label className='checkLabel'>Valor do Pagamento:</label>
-            </div>
-            <div className="checkoutDiv">
-                <input
-                    className='checkInput'
-                    type="text"
-                    name="paymentValue"
-                    value={formData.paymentValue}
-                    onChange={handleChange}
-                    placeholder='parateste'
-                />
+                <p className='paymentValue'>
+                    {/* {y}R${x} */}Concatenar
+                </p>
             </div>
             <div className='checkoutDiv'>
                 <label className='checkLabel'>CPF:</label>
@@ -84,19 +111,6 @@ function CheckoutForm() {
                     placeholder='exemplo@email.com'
                 />
             </div>
-            <div className="checkoutDiv">
-                <label className='checkLabel'>CEP:</label>
-            </div>
-            <div className="checkoutDiv">
-                <input
-                    className='checkInput'
-                    type="text"
-                    name="payerCep"
-                    value={formData.payerCep}
-                    onChange={handleChange}
-                    placeholder='somente números'
-                />
-            </div>
             <div className='checkoutDiv'>
                 <label className='checkLabel'>Número do Telefone com DDD:</label>
             </div>
@@ -120,21 +134,23 @@ function CheckoutForm() {
                 />
             </div>
             <div className="checkoutDiv">
-                <label className='checkLabel'>ID do Curso:</label>
+                <label className='checkLabel'>CEP:</label>
             </div>
-            <div className='checkoutDiv'>
+            <div className="checkoutDiv">
                 <input
                     className='checkInput'
                     type="text"
-                    name="courseId"
-                    value={formData.courseId}
+                    name="payerCep"
+                    value={formData.payerCep}
                     onChange={handleChange}
-                    placeholder='parateste'
+                    placeholder='somente números'
                 />
             </div>
             </div>
-            <div>
-            <button type="submit" className='btn btn-custom btn-lg page-scroll'>Finalizar Inscrição</button>
+            <div className='buttonCheckDiv'>
+                <div className='buttonCheck'>
+                    <button type="submit" className='btn btn-custom btn-lg page-scroll'>Finalizar Inscrição</button>
+                </div>
             </div>
             </form>
         </div>
@@ -143,4 +159,4 @@ function CheckoutForm() {
   );
 }
 
-export default CheckoutForm;
+export default Checkout;

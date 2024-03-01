@@ -76,7 +76,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #232323;
+  background-color: #23232395 ;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -621,30 +621,53 @@ label {
 
 .checkout{
   background-color: #232323;
-  
+  padding-top: 10%;
+  padding-bottom: 5%;
 }
 
 .checkoutDiv {
-  background-color: #1e7a46;
-  margin: 10px;
+  margin: 20px;
 }
 
 .checkLabel{
   font-size: 15px;
-  
 }
 
 .checkInput {
-  height: 5%;
+  height: 30px;
   width: 30%;
   border: none;
-  border-radius: 30px;
+  border-radius: 10px;
   outline: none;
-  color: #777;
+  color: #000000;
   margin-left: 10px;
-  padding: 10px;
+  padding: 1rem;
   }
 
+.checkInput::placeholder{
+  color: #444;
+}
+
 #checkInputDDD {
-  width: 5%;
+  width: 3.5rem;
+}
+
+.paymentValue {
+  font-weight: bold;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.buttonCheckDiv {
+  display: flex;
+}
+
+.buttonCheck {
+  margin: auto;
+}
+
+.titleCheck {
+  border-bottom: 2px solid #ffffff;
+  padding: 1rem;
+  padding-left: 0;
 }
