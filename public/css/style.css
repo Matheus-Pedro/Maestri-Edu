@@ -671,3 +671,7 @@ label {
   padding: 1rem;
   padding-left: 0;
 }
+
+#QRCode {
+  border-radius: 20px;
+}

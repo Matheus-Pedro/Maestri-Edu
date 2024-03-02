@@ -4,7 +4,7 @@
     "paragraph": "2024: O Ano Novo Começa com Você na Maestri.Edu!"
   },
   "About": {
-    "paragraph": "Acreditamos que o ensino superior não deve ser exclusivo para alguns, mas sim uma plataforma para todos moldarem seus futuros. Estamos comprometidos em oferecer uma educação que capacita nossos alunos a enfrentar os desafios do mundo moderno e a prosperar em suas carreiras. ",
+    "paragraph": "Na Maestri.edu, transformamos o futuro com cursos acessíveis, igual ao valor de um salário mínimo. Oferecemos programas em sete áreas do conhecimento, incluindo tecnologia, negócios, saúde, entre outras, garantindo diversidade e especialização. Nossos cursos são desenhados por especialistas, combinando teoria e prática para uma formação completa e abrangente. Com nossa abordagem inclusiva, garantimos que a educação de alta qualidade seja um direito de todos. Invista em seu futuro com a Maestri.edu e prepare-se para uma carreira de sucesso em uma das nossas sete áreas do conhecimento. Descubra seu potencial e alcance seus sonhos conosco.",
     "Why": [
       "Temos os menores valores.",
       "O melhor ensino EAD da atualidade."
@@ -64,60 +64,430 @@
   "Services": [
     {
       "icon": "fa fa-laptop",
-      "name": "Assessoria Acadêmica Personalizada",
-      "text": "Oferecemos orientação acadêmica personalizada para ajudar os alunos a escolherem os cursos mais alinhados com seus objetivos de carreira. Nossa equipe de assessores está pronta para fornecer insights valiosos e orientação individualizada."
+      "name": "Tecnólogo",
+      "text": " Na Maestri.edu, a formação em Tecnólogo é projetada para catapultar sua carreira. Em um curso dinâmico e inovador, você mergulhará em áreas vitais como  análise de sistemas . Nossa metodologia de ensino combina teoria com prática intensiva, preparando você para enfrentar desafios reais dos setores . Gradue-se no Tecnólogo da Maestri.edu e abra as portas para um futuro repleto de oportunidades."
     },
     {
       "icon": "fa fa-user-plus",
-      "name": "Suporte Profissional",
-      "text": "Não apenas preparamos os alunos para o mercado de trabalho, mas também oferecemos suporte profissional contínuo. Desde workshops de desenvolvimento de habilidades até programas de estágio, estamos comprometidos em auxiliar nossos alunos em cada passo do caminho em direção ao sucesso profissional."
+      "name": "Lincenciatura R2",
+      "text": "Descubra a arte de ensinar com o curso de Licenciatura R2 na Maestri.edu, uma formação que equilibra teoria e prática pedagógica. Nosso programa é dedicado a formar educadores inovadores e comprometidos, aptos a enfrentar os desafios da educação contemporânea. Através de metodologias ativas e um currículo atualizado, preparamos nossos estudantes para inspirar e transformar futuras gerações. Com a Licenciatura R2 da Maestri.edu, você será não apenas um professor, mas um verdadeiro agente de mudança na educação."
     },
     {
       "icon": "fa fa-book",
-      "name": "Plataforma E-Learning Avançada",
-      "text": "Investimos em tecnologia de ponta para fornecer uma plataforma de aprendizado online intuitiva e eficiente. Nossos alunos têm acesso a recursos digitais, aulas interativas e materiais didáticos de alta qualidade, facilitando a aprendizagem em qualquer lugar e a qualquer momento."
-    },
-    {
-      "icon": "fa fa-group",
-      "name": "Rede de Alumni Ativa",
-      "text": "Valorizamos a construção de uma comunidade duradoura. Nossa rede de ex-alunos é uma fonte valiosa de conexões profissionais, oportunidades de networking e mentorias. Ao se juntar à Maestri.edu, você se torna parte de uma comunidade global de indivíduos comprometidos com o sucesso mútuo."
-    },
-    {
-      "icon": "fa fa-bar-chart-o",
-      "name": "Programas de Bolsas e Financiamento",
-      "text": "Reconhecemos a importância do acesso à educação, independentemente das circunstâncias financeiras. Na Maestri.edu, oferecemos programas de bolsas e opções de financiamento para tornar a educação superior mais acessível a todos os que buscam crescimento e desenvolvimento."
+      "name": "Pós-graduação",
+      "text": "Eleve sua carreira ao próximo nível com os cursos de pós-graduação da Maestri.edu. Nossos programas são desenhados para profissionais que buscam excelência e liderança em suas áreas. Com uma abordagem interdisciplinar e foco em inovação, oferecemos especializações em diversas áreas do conhecimento, preparando você para os desafios e oportunidades do mercado global. Na Maestri.edu, a pós-graduação é uma jornada de transformação pessoal e profissional, onde você expandirá horizontes e desenvolverá habilidades críticas para o futuro. "
     }
+    
   ],
+
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      
+      "id": 59,
+      "img": "img/testimonials/despachantedocu.png", 
+      "text": " Despachante Documentalista",
+      "name": "Duração: 1.5 anos"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "id": 23,
+      "img": "img/testimonials/gestsegupriv.png",
+      "text": "Gestão de Segurança Privada",
+      "name": "Duração: 1.5 anos "
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "id": 61,
+      "img": "img/testimonials/invesforenperijudi.png",
+      "text": "Investigação Forense e Perícia Judicial",
+      "name": "Duração: 2.5 anos"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "id": 25,
+      "img": "img/testimonials/mediconarbi.png",
+      "text": "Mediação, Conciliação e Arbitragem",
+      "name": "Duração: 2 anos"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "id": 52,
+      "img": "img/testimonials/segupubli.png",
+      "text": "Segurança Pública",
+      "name": "Duração: 2 anos"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "id": 14,
+      "img": "img/testimonials/servjuri.png",
+      "text": "Serviços Jurídicos",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 21,
+      "img": "img/testimonials/gestservjurinota.png",
+      "text": "Gestão Serviços Jurídicos e Notoriais",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 23,
+      "img": "img/testimonials/servpen.png",
+      "text": "Serviços Penais",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 7,
+      "img": "img/testimonials/educasoci.png",
+      "text": "Educador Social",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 12,
+      "img": "img/testimonials/minispast.png",
+      "text": "Ministério Pastoral",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id":  64,
+      "img": "img/testimonials/psicomoludieduinf.png",
+      "text": "Psicomotricidade e Ludicidade na Educação Infantil",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 31,
+      "img": "img/testimonials/designinteri.png",
+      "text": "Design de Interiores",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 65,
+      "img": "img/testimonials/cidaintsus.png",
+      "text": "Cidades Inteligentes e Sustentáveis",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 1 ,
+      "img": "img/testimonials/coacdesenhum.png",
+      "text": "Coaching e Desenvolvimento Humano",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 16,
+      "img": "img/testimonials/comerexte.png",
+      "text": "Comércio Exterior",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 33,
+      "img": "img/testimonials/desiprod.png",
+      "text": "Design de Produto",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 32,
+      "img": "img/testimonials/desigrafi.png",
+      "text": "Design Gráfico",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 8,
+      "img": "img/testimonials/empreeduca.png",
+      "text": "Empreendedorismo Educacional",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 13,
+      "img": "img/testimonials/gestambi.png",
+      "text": "Gestão Ambiental",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 17,
+      "img": "img/testimonials/gestcomer.png",
+      "text": "Gestão Comercial",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 62,
+      "img": "img/testimonials/gestproindus.png",
+      "text": "Gestão da Produção Industrial",
+      "name": "Duração: 2.5 anos"
+    },
+    {
+      "id": 11,
+      "img": "img/testimonials/gestqual.png",
+      "text": "Gestão da Qualidade",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 55,
+      "img": "img/testimonials/gesttec.png",
+      "text": "Gestão da Tecnologia da Informação",
+      "name": "Duração: 2 anos"
+    },
+    {
+      "id": 26,
+      "img": "img/testimonials/gestclinconsul.png",
+      "text": "Gestão de Clínicas e Consultórios",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 2,
+      "img": "img/testimonials/gestcoop.png",
+      "text": "Gestão de Cooperativas",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 3,
+      "img": "img/testimonials/gestinv.png",
+      "text": "Gestão de Investimentos",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 4,
+      "img": "img/testimonials/gestlojpo.png",
+      "text": "Gestão de Lojas e Pontos de Vendas",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 27,
+      "img": "img/testimonials/gestrecurhuman.png",
+      "text": "Gestão de Recursos Humanos",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 22,
+      "img": "img/testimonials/gestsegupriv (1).png",
+      "text": "Gestão de Segurança Privada",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 5,
+      "img": "img/testimonials/gestvare.png",
+      "text": "Gestão de Varejo",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 58,
+      "img": "img/testimonials/gestagro.png",
+      "text": "Gestão do Agronegócio",
+      "name": "Duração: 2.5 anos"
+    },
+    {
+      "id": 10,
+      "img": "img/testimonials/gestespor.png",
+      "text": "Gestão do Esporte",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 17,
+      "img": "img/testimonials/gestfinan.png",
+      "text": "Gestão Financeira",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 63,
+      "img": "img/testimonials/gesthospi.png",
+      "text": "Gestão Hospitalar",
+      "name": "Duração: 2.5 anos"
+    },
+    {
+      "id": 53,
+      "img": "img/testimonials/gestpub.png",
+      "text": "Gestão Pública",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 28,
+      "img": "img/testimonials/logist.png",
+      "text": "Logística",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 18,
+      "img": "img/testimonials/marke.png",
+      "text": "Marketing",
+      "name": "Duração: 2.5 anos"
+    },
+    {
+      "id": 19,
+      "img": "img/testimonials/markedig.png",
+      "text": "Marketing Digital",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 29,
+      "img": "img/testimonials/negoimob.png",
+      "text": "Negócios Imobiliários",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 20,
+      "img": "img/testimonials/procegeren.png",
+      "text": "Processos Gerenciais",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id":24 ,
+      "img": "img/testimonials/recruseledesenpesso.png",
+      "text": "Recrutamento, Seleção e Desenvolvimento de Pessoas",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 6,
+      "img": "img/testimonials/secre.png",
+      "text": "Secretariado",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 60,
+      "img": "img/testimonials/segutrab.png",
+      "text": "Segurança no Trabalho",
+      "name": "Duração: 2.5 anos"
+    },
+    {
+      "id": 9,
+      "img": "img/testimonials/segutransi.png",
+      "text": "Segurança no Trânsito",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 30,
+      "img": "img/testimonials/midisocidig.png",
+      "text": "Midias Sociais e Digitais",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 66,
+      "img": "img/testimonials/agcomun.png",
+      "text": "Agente Comunitário de Saúde",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 46,
+      "img": "img/testimonials/embeleimapesso.png",
+      "text": "Embelezamento e Imagem Pessoal",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 47,
+      "img": "img/testimonials/estecosm.png",
+      "text": "Estética e Cosmética",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 38,
+      "img": "img/testimonials/gerenemsaude.png",
+      "text": "Gerência em Saúde",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 35,
+      "img": "img/testimonials/geretolo.png",
+      "text": "Gerontologia",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 41,
+      "img": "img/testimonials/gestreginfosau.png",
+      "text": "Gestão de Registro e Informações em Saúde",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 37,
+      "img": "img/testimonials/gestemfarmá.png",
+      "text": "Gestão Em Farmácia",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 40,
+      "img": "img/testimonials/gestressisoli.png",
+      "text": "Gestão de Resíduos Sólidos",
+      "name": "Duração: 1.5 anos"
+    },
+    {"id": 63,
+      "img": "img/testimonials/gesthospi (1).png",
+      "text": "Gestão Hospitalar",
+      "name": "Duração: 2.5 anos"
+    },
+    {
+      "id": 45,
+      "img": "img/testimonials/nutriesco.png",
+      "text": "Nutrição Escolar",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 39,
+      "img": "img/testimonials/ressocitoxi.png",
+      "text": "Ressocialização para Toxicômanos",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 42,
+      "img": "img/testimonials/vigisau.png",
+      "text": "Vigilância em Saúde",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 57,
+      "img": "img/testimonials/analidesen.png",
+      "text": "Análise e Desenvolvimento de Sistemas",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 48,
+      "img": "img/testimonials/biggatainteanali.png",
+      "text": "Big Data e Inteligência Analítica",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 43,
+      "img": "img/testimonials/desencomun.png",
+      "text": "Desenvolvimento Comunitário",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 36,
+      "img": "img/testimonials/cidaintsus (1).png",
+      "text": "Cidades Inteligentes e Sustentáveis",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 34,
+      "img": "img/testimonials/desiganima.png",
+      "text": "Design de Animação",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 49,
+      "img": "img/testimonials/intercoisas.png",
+      "text": "Internet das Coisas",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 50,
+      "img": "img/testimonials/jogosdigit.png",
+      "text": "Jogos Digitais",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 44,
+      "img": "img/testimonials/contedigi.png",
+      "text": "Produção de Conteúdos Digitais",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 54,
+      "img": "img/testimonials/redescompu.png",
+      "text": "Redes de Computadores",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 56,
+      "img": "img/testimonials/seguinfo.png",
+      "text": "Segurança da Informação",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 51,
+      "img": "img/testimonials/sisteinter.png",
+      "text": "Sistemas para Internet",
+      "name": "Duração: 2.0 anos"
     }
   ],
   "Team": [
@@ -143,25 +513,46 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com"
+    "address": "R. XV de Novembro, 172 - 806B - Centro, Curitiba - PR, 80020-310 ",
+    "phone": "0800 3333 099 - 41 998985950",
+    "email": "maestri.group.contact@gmail.com"
   },
   "Features": [
     {
       "icon": "fa fa-bullhorn",
-      "title": "Valores",
-      "text": "Buscamos fazer você ter um futuro com um mínimo de gasto, com apenas o valor que você pode pagar."
+      "title": "Ciências Jurídicas",
+      "text": "Despachante Documentalista - Gestão de Segurança Privada - Investigação Forense e Perícia Judicial - Mediação, Conciliação e Arbitragem - Segurança Pública - Serviços Jurídicos - Serviços Jurídicos e Notoriais - Serviços Penais"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Gestão e Negócios",
+      "text": "Cidades Inteligentes e Sustentáveis - Coaching e Desenvolvimento Humano - Comércio Exterior - Design de Produto - Design Gráfico - Empreendedorismo Educacional - Gestão Ambiental - Gestão Comercial - Gestão da Produção - Gestão da Qualidade - Gestão da Tecnologia da Informação - Gestão de Clínicas e Consultórios - Gestão de Cooperativas - Gestão de Investimentos - Gestão de Lojas e Pontos de Vendas - Gestão de Recursos Humanos - Gestão de Segurança Privada - Gestão de Varejo - Gestão do Agronegócio - Gestão do Esporte - Gestão Financeira - Gestão Hospitalar - Gestão Pública - Logística - Marketing - Marketing Digital - Negócios Imobiliários - Processos Gerenciais - Recrutamento, Seleção e Desenvolvimento de Pessoas - Secretariado - Segurança no Trabalho - Segurança no Trânsito "
+
     },
     {
       "icon": "fa fa-group",
-      "title": "Comunidade",
-      "text": "Tem como objetivo ajudar a comunidade e garantir o ensino que você merece pelo valor que pode pagar."
+      "title": "Educação",
+      "text": "Educador Social - Ministério Pastoral - Psicomotricidade e Ludicidade na Educação "
     },
     {
       "icon": "fa fa-magic",
-      "title": "Qualidade",
-      "text": "Comece seu 2024 na Maestri.edu fazendo o ensino que você sonha pelo valor que você merece."
+      "title": "Engenharia e Arquitetura",
+      "text": "Design de Interiores - Design de Produto - Design Gráfico  "
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Marketing e Comunicação",
+      "text": "Marketing - Marketing Digital - Mídias Sociais e Digitais"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Saúde e Bem-estar",
+      "text": "Agente Comunitário de Saúde - Embelezamento e Imagem Pessoal - Estética e Cosmética - Gerência em Saúde - Gerontologia - Gestão de Clínicas e Consultórios - Gestão de Registro e Informações em Saúde - Gestão Em Farmácia - Gestão Hospitalar - Nutrição Escolar - Ressocialização para Toxicômanos - Vigilância em Saúde "
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Tecnologia da Informação",
+      "text": "Design de Animação - Gestão da Tecnologia da Informação - Internet das Coisas - Jogos Digitais - Mídias Sociais e Digitais - Redes de Computadores - Segurança da Informação - Sistemas para Internet"
     }
   ]
 }

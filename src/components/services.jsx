@@ -5,7 +5,7 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Nossos Serviços</h2>
+          <h2>Nossas Formações</h2>
           <p>
           Na Maestri.edu, não apenas proporcionamos uma educação de alta qualidade, mas também nos esforçamos para oferecer uma experiência completa e enriquecedora. Estamos comprometidos em superar as expectativas dos nossos alunos, proporcionando serviços excepcionais que impulsionam o sucesso acadêmico e profissional.
           </p>
