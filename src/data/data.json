@@ -8,7 +8,7 @@
     "Why": [
       "Temos os menores valores.",
       "O melhor ensino EAD da atualidade."
-    ],  
+    ],
     "Why2": [
       "Melhor chance do alcance do seu futuro.",
       "Muitas outras oportunidades."
@@ -77,14 +77,11 @@
       "name": "Pós-graduação",
       "text": "Eleve sua carreira ao próximo nível com os cursos de pós-graduação da Maestri.edu. Nossos programas são desenhados para profissionais que buscam excelência e liderança em suas áreas. Com uma abordagem interdisciplinar e foco em inovação, oferecemos especializações em diversas áreas do conhecimento, preparando você para os desafios e oportunidades do mercado global. Na Maestri.edu, a pós-graduação é uma jornada de transformação pessoal e profissional, onde você expandirá horizontes e desenvolverá habilidades críticas para o futuro. "
     }
-    
   ],
-
   "Testimonials": [
     {
-      
       "id": 59,
-      "img": "img/testimonials/despachantedocu.png", 
+      "img": "img/testimonials/despachantedocu.png",
       "text": " Despachante Documentalista",
       "name": "Duração: 1.5 anos"
     },
@@ -143,12 +140,6 @@
       "name": "Duração: 1.5 anos"
     },
     {
-      "id":  64,
-      "img": "img/testimonials/psicomoludieduinf.png",
-      "text": "Psicomotricidade e Ludicidade na Educação Infantil",
-      "name": "Duração: 1.5 anos"
-    },
-    {
       "id": 31,
       "img": "img/testimonials/designinteri.png",
       "text": "Design de Interiores",
@@ -161,7 +152,7 @@
       "name": "Duração: 1.5 anos"
     },
     {
-      "id": 1 ,
+      "id": 1,
       "img": "img/testimonials/coacdesenhum.png",
       "text": "Coaching e Desenvolvimento Humano",
       "name": "Duração: 1.5 anos"
@@ -323,12 +314,6 @@
       "name": "Duração: 1.5 anos"
     },
     {
-      "id":24 ,
-      "img": "img/testimonials/recruseledesenpesso.png",
-      "text": "Recrutamento, Seleção e Desenvolvimento de Pessoas",
-      "name": "Duração: 1.5 anos"
-    },
-    {
       "id": 6,
       "img": "img/testimonials/secre.png",
       "text": "Secretariado",
@@ -383,12 +368,6 @@
       "name": "Duração: 1.5 anos"
     },
     {
-      "id": 41,
-      "img": "img/testimonials/gestreginfosau.png",
-      "text": "Gestão de Registro e Informações em Saúde",
-      "name": "Duração: 1.5 anos"
-    },
-    {
       "id": 37,
       "img": "img/testimonials/gestemfarmá.png",
       "text": "Gestão Em Farmácia",
@@ -400,7 +379,8 @@
       "text": "Gestão de Resíduos Sólidos",
       "name": "Duração: 1.5 anos"
     },
-    {"id": 63,
+    {
+      "id": 63,
       "img": "img/testimonials/gesthospi (1).png",
       "text": "Gestão Hospitalar",
       "name": "Duração: 2.5 anos"
@@ -422,12 +402,6 @@
       "img": "img/testimonials/vigisau.png",
       "text": "Vigilância em Saúde",
       "name": "Duração: 1.5 anos"
-    },
-    {
-      "id": 57,
-      "img": "img/testimonials/analidesen.png",
-      "text": "Análise e Desenvolvimento de Sistemas",
-      "name": "Duração: 2.0 anos"
     },
     {
       "id": 48,
@@ -488,6 +462,30 @@
       "img": "img/testimonials/sisteinter.png",
       "text": "Sistemas para Internet",
       "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 57,
+      "img": "img/testimonials/analidesen.png",
+      "text": "Análise e Desenvolvimento de Sistemas",
+      "name": "Duração: 2.0 anos"
+    },
+    {
+      "id": 41,
+      "img": "img/testimonials/gestreginfosau.png",
+      "text": "Gestão de Registro e Informações em Saúde",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 64,
+      "img": "img/testimonials/psicomoludieduinf.png",
+      "text": "Psicomotricidade e Ludicidade na Educação Infantil",
+      "name": "Duração: 1.5 anos"
+    },
+    {
+      "id": 24,
+      "img": "img/testimonials/recruseledesenpesso.png",
+      "text": "Recrutamento, Seleção e Desenvolvimento de Pessoas",
+      "name": "Duração: 1.5 anos"
     }
   ],
   "Team": [
@@ -520,14 +518,23 @@
   "Features": [
     {
       "icon": "fa fa-bullhorn",
-      "title": "Ciências Jurídicas",
-      "text": "Despachante Documentalista - Gestão de Segurança Privada - Investigação Forense e Perícia Judicial - Mediação, Conciliação e Arbitragem - Segurança Pública - Serviços Jurídicos - Serviços Jurídicos e Notoriais - Serviços Penais"
+      "title": "Gestão e Negócios",
+      "text": "Cidades Inteligentes e Sustentáveis - Coaching e Desenvolvimento Humano - Comércio Exterior - Design de Produto - Design Gráfico - Empreendedorismo Educacional - Gestão Ambiental - Gestão Comercial - Gestão da Produção - Gestão da Qualidade - Gestão da Tecnologia da Informação - Gestão de Clínicas e Consultórios - Gestão de Cooperativas - Gestão de Investimentos - Gestão de Lojas e Pontos de Vendas - Gestão de Recursos Humanos - Gestão de Segurança Privada - Gestão de Varejo - Gestão do Agronegócio - Gestão do Esporte - Gestão Financeira - Gestão Hospitalar - Gestão Pública - Logística - Marketing - Marketing Digital - Negócios Imobiliários - Processos Gerenciais - Recrutamento, Seleção e Desenvolvimento de Pessoas - Secretariado - Segurança no Trabalho - Segurança no Trânsito "
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Saúde e Bem-estar",
+      "text": "Agente Comunitário de Saúde - Embelezamento e Imagem Pessoal - Estética e Cosmética - Gerência em Saúde - Gerontologia - Gestão de Clínicas e Consultórios - Gestão de Registro e Informações em Saúde - Gestão Em Farmácia - Gestão Hospitalar - Nutrição Escolar - Ressocialização para Toxicômanos - Vigilância em Saúde "
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Tecnologia da Informação",
+      "text": "Design de Animação - Gestão da Tecnologia da Informação - Internet das Coisas - Jogos Digitais - Mídias Sociais e Digitais - Redes de Computadores - Segurança da Informação - Sistemas para Internet"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Gestão e Negócios",
-      "text": "Cidades Inteligentes e Sustentáveis - Coaching e Desenvolvimento Humano - Comércio Exterior - Design de Produto - Design Gráfico - Empreendedorismo Educacional - Gestão Ambiental - Gestão Comercial - Gestão da Produção - Gestão da Qualidade - Gestão da Tecnologia da Informação - Gestão de Clínicas e Consultórios - Gestão de Cooperativas - Gestão de Investimentos - Gestão de Lojas e Pontos de Vendas - Gestão de Recursos Humanos - Gestão de Segurança Privada - Gestão de Varejo - Gestão do Agronegócio - Gestão do Esporte - Gestão Financeira - Gestão Hospitalar - Gestão Pública - Logística - Marketing - Marketing Digital - Negócios Imobiliários - Processos Gerenciais - Recrutamento, Seleção e Desenvolvimento de Pessoas - Secretariado - Segurança no Trabalho - Segurança no Trânsito "
-
+      "title": "Ciências Jurídicas",
+      "text": "Despachante Documentalista - Gestão de Segurança Privada - Investigação Forense e Perícia Judicial - Mediação, Conciliação e Arbitragem - Segurança Pública - Serviços Jurídicos - Serviços Jurídicos e Notoriais - Serviços Penais"
     },
     {
       "icon": "fa fa-group",
@@ -543,16 +550,6 @@
       "icon": "fa fa-group",
       "title": "Marketing e Comunicação",
       "text": "Marketing - Marketing Digital - Mídias Sociais e Digitais"
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Saúde e Bem-estar",
-      "text": "Agente Comunitário de Saúde - Embelezamento e Imagem Pessoal - Estética e Cosmética - Gerência em Saúde - Gerontologia - Gestão de Clínicas e Consultórios - Gestão de Registro e Informações em Saúde - Gestão Em Farmácia - Gestão Hospitalar - Nutrição Escolar - Ressocialização para Toxicômanos - Vigilância em Saúde "
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Tecnologia da Informação",
-      "text": "Design de Animação - Gestão da Tecnologia da Informação - Internet das Coisas - Jogos Digitais - Mídias Sociais e Digitais - Redes de Computadores - Segurança da Informação - Sistemas para Internet"
     }
   ]
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export const Navbar = (props) => {
   return (
@@ -17,9 +18,9 @@ export const Navbar = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            <img className="navbar-logo" src="img\logo_side.png"/>
-          </a>{" "}
+          <Link className="navbar-brand page-scroll" to="/" href="#page-top">
+            <img className="navbar-logo" src="img\logo_side.png" />
+          </Link>{" "}
         </div>
       </div>
     </nav>
