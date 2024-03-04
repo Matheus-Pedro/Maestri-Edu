@@ -15,6 +15,8 @@ import AppCheckout from "./components/appCheckout";
 import Footer from "./components/footer"
 import { QueryClient, QueryClientProvider } from 'react-query'
 import "./App.css";
+import AppNotificationCheck from './components/appNotificationCheck'
+
 export const scroll = new SmoothScroll('a[href="#"]', {
   speed: 1000,
   speedAsDuration: true,
@@ -46,6 +48,8 @@ const App = () => {
             </>
           } />
           <Route path="/checkout" element={<AppCheckout />} />
+          <Route path="/concluded" element={<AppNotificationCheck />} />
+          <Route path="/boleto" element={<AppNotificationCheck />} />
           {/* Adicione mais rotas conforme necessário */}
         </Routes>
        </div>

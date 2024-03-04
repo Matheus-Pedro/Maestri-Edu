@@ -6,7 +6,7 @@ function AppCheckout(){
     return (
         <div>
             <Navbar />
-            <Checkout/>
+            <Checkout />
         </div>
     );
 };

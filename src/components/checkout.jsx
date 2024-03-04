@@ -65,7 +65,7 @@ function Checkout() {
     <div className='row'>    
 
         <form onSubmit={handleSubmit} className="col-md-8 col-md-offset-2 intro-text">
-            <div id="checkoutForm">
+            <div className="checkoutForm">
             <h2 className='titleCheck'>Checkout do Curso</h2>
             <div className='checkoutDiv'>
                 <p className='paymentValue'>
