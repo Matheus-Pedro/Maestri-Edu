@@ -48,8 +48,18 @@ const App = () => {
             </>
           } />
           <Route path="/checkout" element={<AppCheckout />} />
-          <Route path="/concluded" element={<AppNotificationCheck />} />
-          <Route path="/boleto" element={<AppNotificationCheck />} />
+          <Route path="/boleto/:id" element={<AppNotificationCheck />} />
+          <Route path="*" element={
+            <>
+            <Navigation />
+            <Header data={landingPageData.Header} />
+            <Features data={landingPageData.Features} />
+            <About data={landingPageData.About} />
+            <Services data={landingPageData.Services} />
+            <Testimonials data={landingPageData.Testimonials} />
+            <Contact data={landingPageData.Contact} />
+          </>
+          } />
           {/* Adicione mais rotas conforme necessário */}
         </Routes>
        </div>
